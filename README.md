@@ -2,13 +2,13 @@
 The world is changing for the better - WindowS Si.
 New is not always better!
 
-ChangeLog|  
+ChangeLog    
 This is 1.00 betta version!!!   
 1.No changes
 
-What is WindowS Si|  
-WindowS Si is Windows but console windows test this!This Windows is for old people
+What is WindowS Si       
+WindowS Si is Windows but console windows.Test this!This Windows is for old people and anotcher
 .
                                                                           
-Authors-Programist|     
+Authors-Programist      
 Wiktor Wołos(Poland name) - Main programist and the Author
