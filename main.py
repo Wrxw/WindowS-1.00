@@ -1,5 +1,8 @@
 CreationO = open(file="Creation.txt",mode="r")
 Creation = CreationO.readline(1)
+nameO = open("name.txt","a+")
+ageO = open("age.txt","a+")
+countryO = open("country.txt","a+")
 #^^^Importing files^^^
 #\/Short creation\/
 if Creation == 0:
@@ -8,3 +11,9 @@ if Creation == 0:
     age = int(input("Age: "))
     country = input("Country: ")
     print("Thanks!")
+    nameO.write(name)
+    ageO.write(age)
+    countryO.write(country)
+
+    
+
