@@ -20,7 +20,7 @@ if Creation == "0":
     countryO.write(country)
     CreationO = open(file="Creation.txt",mode="w+")
     CreationO.write("True")
-
+#\/First code(pick action)\/
 print("Hello",nameO.readline(1))
 print("I'm Si your bot asistent")
 print("what you want to do?")
