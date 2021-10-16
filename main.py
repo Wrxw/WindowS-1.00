@@ -4,6 +4,7 @@ Creation = CreationO.readline(1)
 #\/Short creation\/
 if Creation == 0:
     print("Welcome plese add informations to use this system")
-    
-
-
+    name = input("Name: ")
+    age = int(input("Age: "))
+    country = input("Country: ")
+    print("Thanks!")
