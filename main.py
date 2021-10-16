@@ -24,7 +24,7 @@ if Creation == "0":
 print("Hello",nameO.readline(1))
 print("I'm Si your bot asistent")
 print("what you want to do?")
-print("1.show me the apps \n 2.cos")
+print("1.show me the apps \n2.wants to do the setup again")
 
     
 
